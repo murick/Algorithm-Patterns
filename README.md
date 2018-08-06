@@ -1,5 +1,5 @@
 ### Description
-The repository contains solutions and asymptotic complexity analyses of common algorithm problems.
+The repository contains solutions and complexity analyses of common algorithm problems.
 
 ### References
 * [Algorithm Design](http://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358) - Jon Kleinberg & Éva Tardos
