@@ -1,6 +1,6 @@
 ### Description
 [The Project is Under Construction]
-The repository contains solutions and complexity analyses of common algorithm problems.
+<br>The repository contains solutions and complexity analyses of common algorithm problems.
 
 ### References
 * [Algorithm Design](http://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358) - Jon Kleinberg & Éva Tardos
